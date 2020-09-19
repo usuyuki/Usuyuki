@@ -16,5 +16,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Usuyuki&count_private=true&show_icons=true&theme=black" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usuyuki" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usuyuki&layout=compact" />
 </a>
