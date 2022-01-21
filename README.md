@@ -24,3 +24,20 @@
 <!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usuyuki&count_private=true&show_icons=true&theme=dracula" />
 </a>-->
+
+
+---
+## 主力サービス
+
+
+<div align="center">
+   <a href="https://kadodenikki3.usuyuki.net" target="_blank" rel="noopener noreferrer">
+    <img src="https://user-images.githubusercontent.com/63891531/150483510-788a66bb-8e2e-4e13-a8a7-b0814d557ccb.png">
+  </a>
+    <br>
+  <b>かどで日記</b>
+  <br>
+自然言語処理による統計表示ができる日記webアプリです
+  <br>
+  <a href="https://kadodenikki3.usuyuki.net" target="_blank" rel="noopener noreferrer">https://kadodenikki3.usuyuki.net</a>
+</div>
