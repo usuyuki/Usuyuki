@@ -26,8 +26,14 @@
 </a>-->
 
 
----
+## 読み物
+
+|  ブログ  |  Zenn  | Qiita |
+| :----: | :----: | :----: |
+|<a href="https://blog.usuyuki.net" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/63891531/150616629-78f44721-b411-4f32-b5fc-f0ff54a2aa78.png" width="20%"></a>|<a href = "https://zenn.dev/usuyuki"  target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/63891531/150616750-d9d004c9-7cd4-4bbf-bc56-3758dcc901a6.svg" width="20%"></a>| <a href = "https://qiita.com/Usuyuki"  target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/63891531/150616655-5b86c39d-3174-4a4a-a69b-1d5b2dc23d42.png" width="20%"></a> |
+
 ## 主力サービス
+
 
 
 <div align="center">
