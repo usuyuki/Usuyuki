@@ -52,7 +52,7 @@
 ## 鋭意製作中
 
 <div align="center">
-   <a href="" target="_blank" rel="noopener noreferrer">
+   <a href="https://github.com/Usuyuki/furosiki2" target="_blank" rel="noopener noreferrer">
     <img src="https://user-images.githubusercontent.com/63891531/150684769-3af775ef-f3a0-402c-b6f8-37a6823f3a38.svg" width="20%">
   </a>
     <br>
@@ -60,7 +60,7 @@
   <br>
 データを包装して贈れるwebアプリです。
   <br>
-  <a href="" target="_blank" rel="noopener noreferrer">未完成</a>
+  <a href="https://github.com/Usuyuki/furosiki2" target="_blank" rel="noopener noreferrer">未完成</a>
 </div>
 
 
