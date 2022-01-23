@@ -28,11 +28,12 @@
 
 ## 読み物
 
-|  ブログ  |  Zenn  | Qiita | Misskey |
-| :----: | :----: | :----: | :----: |
-|<a href="https://blog.usuyuki.net" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/63891531/150616629-78f44721-b411-4f32-b5fc-f0ff54a2aa78.png" width="20%"></a>|<a href = "https://zenn.dev/usuyuki"  target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/63891531/150616750-d9d004c9-7cd4-4bbf-bc56-3758dcc901a6.svg" width="20%"></a>| <a href = "https://qiita.com/Usuyuki"  target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/63891531/150616655-5b86c39d-3174-4a4a-a69b-1d5b2dc23d42.png" width="20%"></a> |<a href = "https://misskey.io/@usuyuki"  target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/63891531/150679239-8d4acb9e-5ab7-403e-b76b-81e795d71932.svg" width="40%"></a> |
+| Blog | Portfolio | Zenn | Qiita | Misskey |
+| :----: |  :----: | :----: | :----: | :----: |
+|<a href="https://blog.usuyuki.net" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/63891531/150616629-78f44721-b411-4f32-b5fc-f0ff54a2aa78.png" width="30%"></a>|<a href="https://pf.usuyuki.net/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/63891531/150682673-5636c312-9ba9-46a6-b496-c7b81ee59ea5.png" width="10%"></a>|<a href = "https://zenn.dev/usuyuki"  target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/63891531/150616750-d9d004c9-7cd4-4bbf-bc56-3758dcc901a6.svg" width="30%"></a>| <a href = "https://qiita.com/Usuyuki"  target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/63891531/150616655-5b86c39d-3174-4a4a-a69b-1d5b2dc23d42.png" width="20%"></a> |<a href = "https://misskey.io/@usuyuki"  target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/63891531/150679239-8d4acb9e-5ab7-403e-b76b-81e795d71932.svg" width="40%"></a> |
 
-## 主力サービス
+## 主力サービス！
+
 
 
 
@@ -47,3 +48,19 @@
   <br>
   <a href="https://kadodenikki3.usuyuki.net" target="_blank" rel="noopener noreferrer">https://kadodenikki3.usuyuki.net</a>
 </div>
+
+## 鋭意製作中
+
+<div align="center">
+   <a href="" target="_blank" rel="noopener noreferrer">
+    <img src="https://user-images.githubusercontent.com/63891531/150684769-3af775ef-f3a0-402c-b6f8-37a6823f3a38.svg" width="20%">
+  </a>
+    <br>
+  <b>furosiki</b>
+  <br>
+データを包装して贈れるwebアプリです。
+  <br>
+  <a href="" target="_blank" rel="noopener noreferrer">未完成</a>
+</div>
+
+
