@@ -48,6 +48,18 @@
   <a href="https://kadodenikki3.usuyuki.net" target="_blank" rel="noopener noreferrer">https://kadodenikki3.usuyuki.net</a>
 </div>
 
+## プロジェクトリーダー
+
+<div align="center">
+
+  <b>U-laniwa</b>
+  <br>
+私が所属しているU-labというサークルの内部向けシステムです。
+  <br>
+  <a href="https://github.com/u-lab/U-laniwa" target="_blank" rel="noopener noreferrer">製作中</a>
+</div>
+
+
 ## 鋭意製作中
 
 <div align="center">
