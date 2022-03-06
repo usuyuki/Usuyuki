@@ -37,7 +37,7 @@
 
 
 <div align="center">
-   <a href="https://kadodenikki3.usuyuki.net" target="_blank" rel="noopener noreferrer">
+   <a href="https://github.com/Usuyuki/kadode_nikki3" target="_blank" rel="noopener noreferrer">
     <img src="https://user-images.githubusercontent.com/63891531/150483510-788a66bb-8e2e-4e13-a8a7-b0814d557ccb.png">
   </a>
     <br>
@@ -45,18 +45,21 @@
   <br>
 自然言語処理による統計表示ができる日記webアプリです
   <br>
-  <a href="https://kadodenikki3.usuyuki.net" target="_blank" rel="noopener noreferrer">https://kadodenikki3.usuyuki.net</a>
+  <a href="https://github.com/Usuyuki/kadode_nikki3" target="_blank" rel="noopener noreferrer">完成</a>
 </div>
 
 ## プロジェクトリーダー
 
 <div align="center">
-
+  <a href="https://github.com/u-lab/U-laniwa" target="_blank" rel="noopener noreferrer">
+    <img src="https://user-images.githubusercontent.com/63891531/156935634-8ce52085-6db4-479a-9f6e-6f9626a05288.jpg" width="20%">
+  </a>
+  <br>
   <b>U-laniwa</b>
   <br>
 私が所属しているU-labというサークルの内部向けシステムです。
   <br>
-  <a href="https://github.com/u-lab/U-laniwa" target="_blank" rel="noopener noreferrer">製作中</a>
+  <a href="https://github.com/u-lab/U-laniwa" target="_blank" rel="noopener noreferrer">完成</a>
 </div>
 
 
