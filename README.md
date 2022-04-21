@@ -1,5 +1,4 @@
-### こんにちは！ 
-<!-- バッチコーナー -->
+### gitは文明です。
 <p align="left"> 
   <a href="https://github.com/Usuyuki/usuyuki/">
     <img src="https://komarev.com/ghpvc/?username=Usuyuki" alt="Usuyuki" />
