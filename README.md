@@ -1,4 +1,10 @@
-### gitは文明です。
+> **Note**  
+>  gitは文明です。
+
+> **Warning**  
+>  趣味エンジニアです。
+
+### もろもろ
 <p align="left"> 
   <a href="https://github.com/Usuyuki/usuyuki/">
     <img src="https://komarev.com/ghpvc/?username=Usuyuki" alt="Usuyuki" />
