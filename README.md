@@ -1,22 +1,22 @@
 
 Welcome to Usuyuki 20.4 LTS (Animal/Human 02.02.6-tottori-shimane-japanese maybe x64) 
 
- * Documentation:  https://pf.usuyuki.net
- * Management:     https://stats.uptimerobot.com/yMo55T7gEm
- * Support:        https://twitter.com/usuyuki26
+ \* Documentation:  https://pf.usuyuki.net  
+ \* Management:     https://stats.uptimerobot.com/yMo55T7gEm  
+ \* Support:        https://twitter.com/usuyuki26  
 
   System information as of Mon May 30 00:00:19 JST 2022
 
-  System load:  0.83               Processes:             1
-  Usage of /:   49.0% of ∞B        Users logged in:       1
-  Memory usage: 90%                IPv4 address for eth0: 255.255.255.255
-  Swap usage:   90%
+  System load:  0.83　　　　　　　 Processes:             1  
+  Usage of /:   49.0% of ∞B　　　　 Users logged in:       1  
+  Memory usage: 90% 　　　　　    IPv4 address for eth0: 255.255.255.255  
+  Swap usage:   90%  
 
 
 0 updates can be applied immediately.
 
 
-The list of available updates is more than a week old.
+The list of available updates is more than a week old.  
 To check for new updates ask: @usuyuki26 on Twitter
 
 
