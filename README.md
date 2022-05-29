@@ -1,10 +1,35 @@
-> **Note**  
->  gitは文明です。
 
-> **Warning**  
->  趣味エンジニアです。
+Welcome to Usuyuki 20.4 LTS (Animal/Human 02.02.6-tottori-shimane-japanese maybe x64) 
 
-### もろもろ
+ * Documentation:  https://pf.usuyuki.net
+ * Management:     https://stats.uptimerobot.com/yMo55T7gEm
+ * Support:        https://twitter.com/usuyuki26
+
+  System information as of Mon May 30 00:00:19 JST 2022
+
+  System load:  0.83               Processes:             1
+  Usage of /:   49.0% of ∞B        Users logged in:       1
+  Memory usage: 90%                IPv4 address for eth0: 255.255.255.255
+  Swap usage:   90%
+
+
+0 updates can be applied immediately.
+
+
+The list of available updates is more than a week old.
+To check for new updates ask: @usuyuki26 on Twitter
+
+
+This message is shown once a access on this page.
+
+
+<hr>
+
+![g104015](https://user-images.githubusercontent.com/63891531/170875856-7b6fb71c-d099-46ef-9667-d3ff6641f874.png)
+
+<hr>
+
+## <span style="color:green">usuyuki@github</span>:<span style="color:blue">~ $</sapn> echo もろもろ
 <p align="left"> 
   <a href="https://github.com/Usuyuki/usuyuki/">
     <img src="https://komarev.com/ghpvc/?username=Usuyuki" alt="Usuyuki" />
@@ -31,13 +56,13 @@
 </a>-->
 
 
-## 読み物
+## <span style="color:green">usuyuki@github</span>:<span style="color:blue">~ $</sapn> echo 読み物
 
 | Blog | Portfolio | Zenn | Qiita | Misskey |
 | :----: |  :----: | :----: | :----: | :----: |
 |<a href="https://blog.usuyuki.net" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/63891531/150616629-78f44721-b411-4f32-b5fc-f0ff54a2aa78.png" width="30%"></a>|<a href="https://pf.usuyuki.net/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/63891531/150682673-5636c312-9ba9-46a6-b496-c7b81ee59ea5.png" width="10%"></a>|<a href = "https://zenn.dev/usuyuki"  target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/63891531/150616750-d9d004c9-7cd4-4bbf-bc56-3758dcc901a6.svg" width="30%"></a>| <a href = "https://qiita.com/Usuyuki"  target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/63891531/150616655-5b86c39d-3174-4a4a-a69b-1d5b2dc23d42.png" width="30%"></a> |<a href = "https://misskey.usuyuki.net/@usuyuki"  target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/63891531/152350334-3fbcbc6b-a525-470f-82c6-add0f0460044.png" width="30%"></a> |
 
-## 頑張ってるサービス
+## <span style="color:green">usuyuki@github</span>:<span style="color:blue">~ $</sapn> echo 頑張ってるサービス
 
 
 
@@ -53,7 +78,7 @@
   <a href="https://github.com/Usuyuki/kadode_nikki3" target="_blank" rel="noopener noreferrer">完成</a>
 </div>
 
-## 代表を務めさせてもらったもの
+## <span style="color:green">usuyuki@github</span>:<span style="color:blue">~ $</sapn> echo 代表を務めさせてもらったもの
 
 <div align="center">
   <a href="https://github.com/u-lab/U-laniwa" target="_blank" rel="noopener noreferrer">
@@ -69,3 +94,9 @@
 
 
 
+
+> **Note**  
+>  gitは文明です。
+
+> **Warning**  
+>  趣味エンジニアです。
