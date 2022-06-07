@@ -72,14 +72,14 @@ This message is shown once a access on this page.
 
 <div align="center">
    <a href="https://github.com/Usuyuki/kadode_nikki3" target="_blank" rel="noopener noreferrer">
-    <img src="https://user-images.githubusercontent.com/63891531/150483510-788a66bb-8e2e-4e13-a8a7-b0814d557ccb.png">
+    <img src="https://user-images.githubusercontent.com/63891531/172370977-7c68bca5-6b3d-4bc2-9806-8e928b0b18c3.png" width="20%">
   </a>
     <br>
   <b>かどで日記</b>
   <br>
 自然言語処理による統計表示ができる日記webアプリです
   <br>
-  <a href="https://github.com/Usuyuki/kadode_nikki3" target="_blank" rel="noopener noreferrer">完成</a>
+  <a href="https://github.com/Usuyuki/kadode_nikki3" target="_blank" rel="noopener noreferrer">完成&継続開発中</a>
 </div>
 
 ## <span style="color:green">usuyuki@github</span>:<span style="color:blue">~ $</sapn> echo 代表を務めさせてもらったもの
@@ -93,7 +93,7 @@ This message is shown once a access on this page.
   <br>
 私が所属しているU-labというサークルの内部向けシステムです。
   <br>
-  <a href="https://github.com/u-lab/U-laniwa" target="_blank" rel="noopener noreferrer">完成</a>
+  <a href="https://github.com/u-lab/U-laniwa" target="_blank" rel="noopener noreferrer">完成&継続開発中</a>
 </div>
 
 
