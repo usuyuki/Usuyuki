@@ -24,8 +24,8 @@ This message is shown once a access on this page.
 
 
 <hr>
+<img src="https://user-images.githubusercontent.com/63891531/174257459-3b2548d2-f8e5-41de-8646-12fdd05ef6b5.png" >
 
-![g104015](https://user-images.githubusercontent.com/63891531/170875856-7b6fb71c-d099-46ef-9667-d3ff6641f874.png)
 
 <hr>
 
