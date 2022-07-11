@@ -77,9 +77,26 @@ This message is shown once a access on this page.
     <br>
   <b>かどで日記</b>
   <br>
-自然言語処理による統計表示ができる日記webアプリです
+自然言語処理による統計表示ができる日記webアプリです。
   <br>
   <a href="https://github.com/Usuyuki/kadode_nikki3" target="_blank" rel="noopener noreferrer">完成&継続開発中</a>
+</div>
+
+
+## <span style="color:green">usuyuki@github</span>:<span style="color:blue">~ $</sapn> echo 鋭意開発中
+
+
+
+<div align="center">
+   <a href="https://github.com/Usuyuki/musubineru" target="_blank" rel="noopener noreferrer">
+    <img src="https://user-images.githubusercontent.com/63891531/178256185-365df889-b63d-4bba-95ac-6426afa1e764.png" width="20%">
+  </a>
+    <br>
+  <b>むすびねる</b>
+  <br>
+プロダクトの名前決めのお助けをするサービスです。<br>GOとDenoで動いているモダンなサービスです。
+  <br>
+  <a href="https://github.com/Usuyuki/musubineru" target="_blank" rel="noopener noreferrer">開発中</a>
 </div>
 
 ## <span style="color:green">usuyuki@github</span>:<span style="color:blue">~ $</sapn> echo 代表を務めさせてもらったもの
@@ -95,6 +112,7 @@ This message is shown once a access on this page.
   <br>
   <a href="https://github.com/u-lab/U-laniwa" target="_blank" rel="noopener noreferrer">完成&継続開発中</a>
 </div>
+
 
 
 
